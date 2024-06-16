@@ -1,4 +1,4 @@
-Trusted Source Lizenz (TS v1)
+Public Code License v1 (PCLv1)
 
 BaySec Security-Toolkit
 (c) 2024. BaySec - Bayerische Gesellschaft für Cybersicherheit 
